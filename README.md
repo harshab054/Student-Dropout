@@ -1,11 +1,11 @@
-🎓 The Dropout Signal
+#🎓 The Dropout Signal
 
-Fair Early-Warning Pipeline for Student Dropout Prediction
+*Fair Early-Warning Pipeline for Student Dropout Prediction*
 
-"Databricks" (https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-"PySpark" (https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-"MLflow" (https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-"XGBoost" (https://img.shields.io/badge/XGBoost-1793D1?style=for-the-badge)
+![Databricks] (https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![PySpark] (https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![MLflow] (https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![XGBoost] (https://img.shields.io/badge/XGBoost-1793D1?style=for-the-badge)
 
 ---
 
